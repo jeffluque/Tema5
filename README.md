@@ -29,10 +29,9 @@ if fraccion >= 0.9:  # El resultado debe ser mayor al 90%
 
 Por ultimo en la sección de solución, en el resultado del código se detallan los datos obtenidos, teniendo coherencia con lo esperado:
 
->
-Tiempo con más de -1 solicitudes en fila:
-	 91.24%
-	 Sí cumple con la especificación.
-Simulación es equivalente a 8.28 horas.
+>Tiempo con más de -1 solicitudes en fila
+	> 91.24%
+	> Sí cumple con la especificación.
+>Simulación es equivalente a 8.28 horas.
 
 Concluyendo con la asignación planteada
