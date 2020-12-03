@@ -7,7 +7,7 @@
 ### B33893
 ### Grupo_: 02
 
-En el laboratorio 5 se modificó el código dado, con tal de que se cumliera la asignación, es decir que el servidor no esté vacío (sin atender solicitudes) más del 10% del tiempo. Se debe hallar  el parámetro $\nu$ para satisfacer este requisito y modificar el código para medir la variable de interés en una simulación.
+En el laboratorio 5 se modificó el código dado, con tal de que se cumpliera la asignación, es decir que el servidor no esté vacío (sin atender solicitudes) más del 10% del tiempo. Se debe hallar  el parámetro $\nu$ para satisfacer este requisito y modificar el código para medir la variable de interés en una simulación.
 
 Se parte de la ecuación dada en el L5.ipynb, adecuandolo a nuestra situación, que sería con los siguientes datos:
 
