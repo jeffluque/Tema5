@@ -1,0 +1,2 @@
+# Tema5
+Universidad de Costa Rica IE0405 - Modelos Probabilísticos de Señales y Sistemas L5 - Cadenas de Markov El caso especial de los procesos aleatorios donde existen "estados" y "transiciones" entre estos estados, las cadenas de Markov modelan las probabilidades de transición y el tiempo de permanencia entre cada estado. En particular, la teoría de colas describe la evolución del número de elementos en la fila, dado un flujo de entrada y un flujo de salida.
