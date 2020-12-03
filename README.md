@@ -31,8 +31,8 @@ Por ultimo en la sección de solución, en el resultado del código se detallan 
 
 >Tiempo con más de -1 solicitudes en fila 
 
-	> 91.24%
-	> Sí cumple con la especificación.
+> 91.24%
+> Sí cumple con la especificación.
 	
 > Simulación es equivalente a 8.28 horas.
 
